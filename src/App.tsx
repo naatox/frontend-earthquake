@@ -24,10 +24,7 @@ export default function App() {
             </CarouselItem>
           ))}
         </CarouselContent>
-
-        {/* <CarouselPrevious className="absolute top-1/2 left-4 -translate-y-1/2 z-20 bg-white text-black p-2 rounded-full" />
-        <CarouselNext className="absolute top-1/2 right-4 -translate-y-1/2 z-20 bg-white text-black p-2 rounded-full" /> */}
-      </Carousel>
+     </Carousel>
 
       {/* 🌐 Contenido encima */}
       <div className="relative z-10 flex items-center justify-center min-h-screen px-4">
